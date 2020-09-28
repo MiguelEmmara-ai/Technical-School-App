@@ -1,4 +1,5 @@
 # Technical-School-App
+Technical School App AUT Java Assignment one
 
 # Brief
 For this assignment, you will individually develop a Technical School App (eight classes) in Java to determine whether or not a student is certified, their transcript is checked against a certification criterion. For this assignment, you will develop classes to store data for modules, students, and their transcripts. You will demonstrate the functionality of your code on sample transcripts.
